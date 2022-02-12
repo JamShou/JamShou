@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jamal
+- 👋 Hi, I’m Jam
 - 👀 I’m interested in programming and gaming
 - 🌱 I’m currently learning advanced java techniques and practices
 - 💞️ I’m looking to collaborate on future projects, maybe gaming
